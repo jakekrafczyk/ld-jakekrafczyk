@@ -1,0 +1,8 @@
+README.md
+setup.py
+jakekrafczyk_ld/__init__.py
+jakekrafczyk_ld/my_mod.py
+ld_jakekrafczyk.egg-info/PKG-INFO
+ld_jakekrafczyk.egg-info/SOURCES.txt
+ld_jakekrafczyk.egg-info/dependency_links.txt
+ld_jakekrafczyk.egg-info/top_level.txt
