@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="ld-jakekrafczyk", # the name that you will install via pip
-    version="1.0",
+    version="2.0",
     author="Jake Krafczyk",
     author_email="jacob-krafczyk@lambdastudents.com",
     description="A data science tool kit",
